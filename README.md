@@ -1,6 +1,6 @@
 ## Trabalho de estrutra de dados I - 03N:
-
-Integrantes do grupo:
+Projeto consiste em transformar qualquer operação de notação infixa para pós-fixa.<br>
+<br>Integrantes do grupo:<br>
 
 | Nome  | TIA |
 | ------------- | ------------- |
